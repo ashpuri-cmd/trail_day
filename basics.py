@@ -1,3 +1,9 @@
+import sys
+import math as m
+import json
+import calendar as cal
+from statistics import median
+
 def main():
     if len(sys.argv) != 2:
         sys.exit("Usage: python basics.py NAME")

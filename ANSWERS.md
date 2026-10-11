@@ -10,4 +10,4 @@ Answer: I got the message "Usage: python basics.py NAME" most likely because I h
 
 **A3.** (Q26) How many entries does the save history show on your default branch?
 
-Answer: 
+Answer: 3

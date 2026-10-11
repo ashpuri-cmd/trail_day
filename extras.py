@@ -1,3 +1,10 @@
+from textwrap import shorten as trim
+from math import floor, ceil
+from string import ascii_uppercase, digits
+from datetime import date
+from datetime import timedelta as gap
+
+
 def main():
     print(trim("Pack light and start early to beat the heat", 20))
     print("Water stops:", floor(7 / 2), "to", ceil(7 / 2))
